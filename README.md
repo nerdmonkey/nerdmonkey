@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Motivation:
+
+> ### "Growth happens at the edge of your comfort zone."
 
 <!--
 **nerdmonkey/nerdmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
