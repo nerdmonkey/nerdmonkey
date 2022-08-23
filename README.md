@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Agnes - Smart Agriculture
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Python
 
 <!--
 - 👯 I’m looking to collaborate on ...
