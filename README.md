@@ -11,6 +11,7 @@ I'm a **Lead Data/AI/ML Engineer** with over **10 years** of experience in softw
 ### 🧠 About Me
 
 - 💼 I design and lead the development of complex **data pipelines**, **ETL frameworks**, and **automated systems**
+- 🤖 I actively explore and implement innovations using **Generative AI** to solve real-world problems
 - ☁️ Experienced across **AWS**, **Azure**, and **Google Cloud Platform**
 - 🛠️ Skilled in **Python (FastAPI)**, **PHP (Laravel)**, **NodeJS**, **ReactJS**, and **React Native**
 - 🗄️ Work with databases like **PostgreSQL**, **MSSQL**, and **MySQL**
@@ -24,6 +25,7 @@ Outside my professional work, I’m deeply passionate about:
 - **IoT** – building smart systems for homes, farms, and offices
 - **Computer Vision** – exploring ways to bring visual intelligence to applications
 - **Drone Technologies** – integrating drones into real-world solutions
+- **Generative AI** – pushing the boundaries of creativity and automation
 
 ---
 
