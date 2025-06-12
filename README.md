@@ -14,7 +14,7 @@ I'm a **Lead Data/AI/ML Engineer** with over **10 years** of experience in softw
 - 🤖 I actively explore and implement innovations using **Generative AI** to solve real-world problems
 - ☁️ Experienced across **AWS**, **Azure**, and **Google Cloud Platform**
 - 🛠️ Skilled in **Python (FastAPI)**, **PHP (Laravel)**, **NodeJS**, **ReactJS**, and **React Native**
-- 🗄️ Work with databases like **PostgreSQL**, **MSSQL**, and **MySQL**
+- 🗄️ Work with databases like **PostgreSQL**, **MSSQL**, **MySQL**, **DynamoDB**
 - 🚀 Optimize CI/CD pipelines with **Azure DevOps**, **GitHub**, **GitLab**, and **Bitbucket**
 
 ---
