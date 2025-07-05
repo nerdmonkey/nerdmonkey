@@ -22,7 +22,7 @@ I'm a **Lead Data/AI/ML Engineer** with over **10 years** of experience building
 - 🚧 Developing a QA automation suite using **Selenium** and **Python**
 - 🧪 Experimenting with **LLM deployment** for enterprise use cases
 - 🔗 Integrating **IoT sensor data** with a real-time dashboard (**Livewire** + **MQTT**)
-- 🤝 Collaborating with peers on an open-source **Serverless framework**
+- 🤝 Collaborating with peers on an open-source **Serverless infrastructure framework**
 
 ---
 
