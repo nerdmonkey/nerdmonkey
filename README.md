@@ -15,6 +15,7 @@ I'm a Lead Data/AI/ML Engineer with over 10 years of experience building scalabl
 - 🛠️ Full-stack skills: Python (FastAPI), PHP (Laravel), NodeJS, ReactJS, React Native
 - 🗄️ Databases: PostgreSQL, MySQL, MSSQL, DynamoDB
 - 🚀 CI/CD & DevOps with Azure DevOps, GitHub, GitLab, Bitbucket
+- 🤖 Expert in automation using workflow tools like n8n, Zapier, and Make
 
 ---
 
