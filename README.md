@@ -20,17 +20,17 @@ I'm a Lead Data/AI/ML Engineer with over 10 years of experience building scalabl
 
 ### Currently Working
 
-#### July 2025
-- Developing a QA automation suite using Selenium and Python
-- Experimenting with LLM deployment for enterprise use cases
-- Integrating IoT sensor data with a real-time dashboard (Livewire + MQTT)
-- Collaborating with peers on an open-source Serverless infrastructure framework
-
 #### January 2026
 - Spartan Lazaro the Spartan Serverless Framework mainly for Google Cloud Platform
 - N8N CLI tools and utilities
 - Boilerplate for Terraform
 - Honing skill in Generative AI
+
+#### July 2025
+- Developing a QA automation suite using Selenium and Python
+- Experimenting with LLM deployment for enterprise use cases
+- Integrating IoT sensor data with a real-time dashboard (Livewire + MQTT)
+- Collaborating with peers on an open-source Serverless infrastructure framework
 
 ---
 
