@@ -9,17 +9,30 @@
 
 I'm a Lead Data/AI/ML Engineer with over 10 years of experience building scalable solutions across software development, data engineering, and cloud technologies. I thrive in turning complex ideas into real-world impact.
 
-- 💼 Lead data pipeline and ETL system development
-- 🤖 Passionate about integrating Generative AI into real-world applications
-- ☁️ Cloud-savvy across AWS, Azure, and GCP
-- 🛠️ Full-stack skills: Python (FastAPI), PHP (Laravel), NodeJS, ReactJS, React Native
-- 🗄️ Databases: PostgreSQL, MySQL, MSSQL, DynamoDB
-- 🚀 CI/CD & DevOps with Azure DevOps, GitHub, GitLab, Bitbucket
-- 🤖 Expert in automation using workflow tools like n8n, Zapier, and Make
+Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Building Agentic AI systems and scalable APIs with FastAPI, leveraging Kubernetes for container orchestration. Integrating AI with data platforms while ensuring performance, security, and reliability. Collaborating with cross-functional teams to deliver intelligent, production-ready systems.
+
+**Key Expertise:**
+- 🤖 Architecting and deploying Agentic AI systems
+- ⚡ Building high-performance APIs with FastAPI and microservices architecture
+- ☸️ Container orchestration and cluster management with Kubernetes
+- 🏗️ Infrastructure as Code with Terraform and Serverless Framework
+- 💼 Leading data pipeline and ETL system development at scale
+- ☁️ Multi-cloud solutions across AWS, Azure, and GCP
+- 🗄️ Database design and optimization: PostgreSQL, MySQL, MSSQL, DynamoDB
+- 🚀 CI/CD automation with Azure DevOps, GitHub Actions, GitLab, Bitbucket
+- 🔧 Full-stack development: Python, PHP (Laravel), NodeJS, ReactJS, React Native
+- 🛠️ Workflow automation with n8n, Zapier, and Make
 
 ---
 
 ### 🔄 Currently Working
+
+#### 🗓️ March 2026
+- ☸️ Kubernetes orchestration and cluster management
+- ⚡ Building APIs with FastAPI
+- 🤖 Exploring Agentic AI architectures and workflows
+- 🧠 Working with Claude API and OpenAI for AI integration
+- 🏗️ Infrastructure as Code with Terraform
 
 #### 🗓️ January 2026
 - ⚡ Spartan Lazaro the Spartan Serverless Framework mainly for Google Cloud Platform
@@ -43,8 +56,9 @@ I'm a Lead Data/AI/ML Engineer with over 10 years of experience building scalabl
 | 🧩 Frameworks       | FastAPI, Laravel, NodeJS, React |
 | ☁️ Cloud Platforms  | AWS, Azure, GCP, DigitalOcean |
 | 🗄️ Databases        | PostgreSQL, MySQL, MSSQL, DynamoDB |
-| 🚀 DevOps & CI/CD   | Azure DevOps, GitHub, GitLab, Bitbucket |
-| 🛠️ Other Tools      | Jira, Confluence, Linux, IoT, Drone Tech |
+| 🤖 AI/ML            | Claude API, OpenAI, Agentic AI, LLM Integration |
+| 🚀 DevOps & CI/CD   | Azure DevOps, GitHub, GitLab, Bitbucket, Kubernetes, Terraform |
+| 🛠️ Other Tools      | Jira, Confluence, Linux, IoT, Drone Tech, n8n |
 
 ---
 
