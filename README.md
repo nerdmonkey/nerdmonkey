@@ -31,6 +31,7 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 - ☸️ Explore AWS EKS
 - ☸️ Explore GCP GKE
 - 🔧 Explore Knative
+- 🤖 Agentic Workflows and AI Agent Pipelines
 
 #### 🗓️ May 2026
 - ☁️ Revisit Azure Cloud for Kubernetes
