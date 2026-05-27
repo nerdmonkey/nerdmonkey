@@ -36,6 +36,7 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 - ☁️ Revisit Azure Cloud for Kubernetes
 - 🔌 Explore PCB Design
 - 🤖 Revisit Automation, AI and IoT
+- 🤖 Agentic Workflows and AI Agent Pipelines
 
 #### 🗓️ March 2026
 - ☸️ Kubernetes orchestration and cluster management
