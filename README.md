@@ -7,14 +7,14 @@
 
 ### 🧠 About Me
 
-I'm a Lead Data/AI/ML Engineer with over 10 years of experience building scalable solutions across software development, data engineering, and cloud technologies. I thrive in turning complex ideas into real-world impact.
+I'm a Lead Data/AI Engineer with over 10 years of experience building scalable solutions across software development, data engineering, and cloud technologies. I thrive in turning complex ideas into real-world impact.
 
 Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Building Agentic AI systems and scalable APIs with FastAPI, leveraging Kubernetes for container orchestration. Integrating AI with data platforms while ensuring performance, security, and reliability. Collaborating with cross-functional teams to deliver intelligent, production-ready systems.
 
 **Key Expertise:**
 - 🤖 Architecting and deploying Agentic AI systems
 - ⚡ Building high-performance APIs with FastAPI and microservices architecture
-- ☸️ Container orchestration and cluster management with Kubernetes
+- ☸️ Container orchestration and cluster management with Kubernetes and Knative
 - 🏗️ Infrastructure as Code with Terraform and Serverless Framework
 - 💼 Leading data pipeline and ETL system development at scale
 - ☁️ Multi-cloud solutions across AWS, Azure, and GCP
@@ -26,6 +26,16 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 ---
 
 ### 🔄 Currently Working
+
+#### 🗓️ June 2026
+- ☸️ Explore AWS EKS
+- ☸️ Explore GCP GKE
+- 🔧 Explore Knative
+
+#### 🗓️ May 2026
+- ☁️ Revisit Azure Cloud for Kubernetes
+- 🔌 Explore PCB Design
+- 🤖 Revisit Automation, AI and IoT
 
 #### 🗓️ March 2026
 - ☸️ Kubernetes orchestration and cluster management
@@ -71,6 +81,7 @@ I love building and experimenting with:
 - 🚁 Drone Tech – integrating drones for practical solutions
 - ✨ Generative AI – exploring creative automation
 - 🧪 QA Automation – designing test frameworks and automation pipelines for robust software delivery
+- 🔌 PCB Design – exploring hardware design and electronics for embedded and IoT projects
 
 ---
 
