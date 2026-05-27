@@ -67,8 +67,8 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 | ☁️ Cloud Platforms  | AWS, Azure, GCP, DigitalOcean |
 | 🗄️ Databases        | PostgreSQL, MySQL, MSSQL, DynamoDB |
 | 🤖 AI/ML            | Claude API, OpenAI, Agentic AI, LLM Integration |
-| 🚀 DevOps & CI/CD   | Azure DevOps, GitHub, GitLab, Bitbucket, Kubernetes, Terraform |
-| 🛠️ Other Tools      | Jira, Confluence, Linux, IoT, Drone Tech, n8n |
+| 🚀 DevOps & CI/CD   | Azure DevOps, GitHub, GitLab, Bitbucket, Kubernetes, EKS, GKE, AKS, Knative, Terraform |
+| 🛠️ Other Tools      | Jira, Confluence, Linux, IoT, Drone Tech, n8n, PCB Design |
 
 ---
 
