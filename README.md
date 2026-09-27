@@ -77,8 +77,8 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 |---------|--------------|
 | [spartan-framework](https://github.com/nerdmonkey/spartan-framework) | The Spartan Serverless Framework — scaffold for building serverless apps on AWS with consistent structure |
 | [spartan-bogart](https://github.com/nerdmonkey/spartan-bogart) | AWS variant of Spartan — APIs, Step Functions workflows, ETL pipelines, containerized microservices |
-| [spartan-lazaro](https://github.com/nerdmonkey/spartan-lazaro) | Structured serverless framework for building scalable Python apps on Google Cloud Platform |
-| [spartan-orbit](https://github.com/nerdmonkey/spartan-orbit) | Lightweight Spartan framework for Azure — event-driven apps, workflows, and ETL pipelines |
+| [spartan-lazaro](https://github.com/nerdmonkey/spartan-lazaro) | GCP variant of Spartan — structured serverless framework for scalable Python apps on Google Cloud Platform |
+| [spartan-orbit](https://github.com/nerdmonkey/spartan-orbit) | Azure variant of Spartan — event-driven apps, workflows, and ETL pipelines |
 | [agnes](https://github.com/nerdmonkey/agnes) | Farm/IoT management system tying together devices, sensors, locations, and real-time readings |
 | [microweaver-framework](https://github.com/nerdmonkey/microweaver-framework) | Lightweight MicroPython scaffold for ESP32 and other microcontrollers |
 
