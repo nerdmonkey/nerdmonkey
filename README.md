@@ -28,34 +28,35 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 ### 🔄 Currently Working
 
 #### 🗓️ September 2026
-- ☁️ Explore Azure AKS
-- ☸️ Explore AWS EKS
-- 🤖 Generative AI in Kubernetes
+- ☁️ Explore Azure AKS — managed Kubernetes on Azure, comparing setup and workflows against EKS/GKE
+- ☸️ Explore AWS EKS — deep dive into cluster provisioning, IAM/RBAC, and networking on AWS's managed K8s
+- 🤖 Generative AI in Kubernetes — running and serving LLM workloads on K8s clusters
+- 🏠 Agnes for Smart Home, independent from cloud — local-first IoT/home automation platform that works without a cloud dependency
 
 #### 🗓️ June 2026
-- ☸️ Explore AWS EKS
-- ☸️ Explore GCP GKE
-- 🔧 Explore Knative
-- 🤖 Agentic Workflows and AI Agent Pipelines
+- ☸️ Explore AWS EKS — cluster architecture and managed node groups on AWS
+- ☸️ Explore GCP GKE — autopilot vs standard clusters and GCP-native tooling
+- 🔧 Explore Knative — serverless workloads and event-driven scaling on top of Kubernetes
+- 🤖 Agentic Workflows and AI Agent Pipelines — orchestrating multi-step AI agents in production pipelines
 
 #### 🗓️ May 2026
-- ☁️ Revisit Azure Cloud for Kubernetes
-- 🔌 Explore PCB Design
-- 🤖 Revisit Automation, AI and IoT
-- 🤖 Agentic Workflows and AI Agent Pipelines
+- ☁️ Revisit Azure Cloud for Kubernetes — refreshing AKS setup, networking, and identity integration
+- 🔌 Explore PCB Design — hardware design fundamentals for embedded/IoT prototypes
+- 🤖 Revisit Automation, AI and IoT — tying automation and AI into IoT device workflows
+- 🤖 Agentic Workflows and AI Agent Pipelines — continued work on multi-agent orchestration patterns
 
 #### 🗓️ March 2026
-- ☸️ Kubernetes orchestration and cluster management
-- ⚡ Building APIs with FastAPI
-- 🤖 Exploring Agentic AI architectures and workflows
-- 🧠 Working with Claude API and OpenAI for AI integration
-- 🏗️ Infrastructure as Code with Terraform
+- ☸️ Kubernetes orchestration and cluster management — hands-on cluster ops, scheduling, and scaling
+- ⚡ Building APIs with FastAPI — designing high-performance async APIs
+- 🤖 Exploring Agentic AI architectures and workflows — early experiments in agent design patterns
+- 🧠 Working with Claude API and OpenAI for AI integration — integrating LLM providers into applications
+- 🏗️ Infrastructure as Code with Terraform — provisioning cloud infra declaratively
 
 #### 🗓️ January 2026
-- ⚡ Spartan Lazaro the Spartan Serverless Framework mainly for Google Cloud Platform
-- 🛠️ N8N CLI tools and utilities
-- 📦 Boilerplate for Terraform
-- 🤖 Honing skill in Generative AI
+- ⚡ Spartan Lazaro the Spartan Serverless Framework mainly for Google Cloud Platform — building a GCP-focused serverless micro framework
+- 🛠️ N8N CLI tools and utilities — command-line tooling around n8n workflow automation
+- 📦 Boilerplate for Terraform — reusable IaC starter modules
+- 🤖 Honing skill in Generative AI — deepening practical GenAI application skills
 
 #### 🗓️ July 2025
 - 🧪 Developing a QA automation suite using Selenium and Python
