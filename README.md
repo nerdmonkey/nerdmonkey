@@ -27,6 +27,11 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 
 ### 🔄 Currently Working
 
+#### 🗓️ September 2026
+- ☁️ Explore Azure AKS
+- ☸️ Explore AWS EKS
+- 🤖 Generative AI in Kubernetes
+
 #### 🗓️ June 2026
 - ☸️ Explore AWS EKS
 - ☸️ Explore GCP GKE
