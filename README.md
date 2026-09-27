@@ -71,6 +71,28 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nerdmonkey&show_icons=true&theme=default&hide_border=true" alt="Sydel's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdmonkey&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|--------------|
+| [spartan-framework](https://github.com/nerdmonkey/spartan-framework) | The Spartan Serverless Framework — scaffold for building serverless apps on AWS with consistent structure |
+| [spartan-bogart](https://github.com/nerdmonkey/spartan-bogart) | AWS variant of Spartan — APIs, Step Functions workflows, ETL pipelines, containerized microservices |
+| [spartan-lazaro](https://github.com/nerdmonkey/spartan-lazaro) | Structured serverless framework for building scalable Python apps on Google Cloud Platform |
+| [spartan-orbit](https://github.com/nerdmonkey/spartan-orbit) | Lightweight Spartan framework for Azure — event-driven apps, workflows, and ETL pipelines |
+| [agnes](https://github.com/nerdmonkey/agnes) | Farm/IoT management system tying together devices, sensors, locations, and real-time readings |
+| [microweaver-framework](https://github.com/nerdmonkey/microweaver-framework) | Lightweight MicroPython scaffold for ESP32 and other microcontrollers |
+
+---
+
 ### 💻 Tech Stack & Tools
 
 | Category         | Technologies & Tools |
