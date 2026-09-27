@@ -14,7 +14,7 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 **Key Expertise:**
 - 🤖 Architecting and deploying Agentic AI systems
 - ⚡ Building high-performance APIs with FastAPI and microservices architecture
-- ☸️ Container orchestration and cluster management with Kubernetes and Knative
+- ☸️ Container orchestration and cluster management with Kubernetes
 - 🏗️ Infrastructure as Code with Terraform and Serverless Framework
 - 💼 Leading data pipeline and ETL system development at scale
 - ☁️ Multi-cloud solutions across AWS, Azure, and GCP
