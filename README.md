@@ -71,15 +71,6 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-nu.vercel.app/api?username=nerdmonkey&show_icons=true&theme=default&hide_border=true" alt="Sydel's GitHub stats" height="165" />
-  <img src="https://github-readme-stats-nu.vercel.app/api/top-langs/?username=nerdmonkey&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 | Project | Description |
