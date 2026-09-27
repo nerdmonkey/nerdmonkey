@@ -27,6 +27,11 @@ Designing and re-architecting AI-powered solutions using Azure, AWS, and GCP. Bu
 
 ### 🔄 Currently Working
 
+#### 🗓️ October 2026
+- 🤖 Fine-Tuning LLMs for Cloud-Native Workloads — adapting language models to run efficiently on container platforms
+- 🚀 From Prototype to Production: Cloud-Native AI Pipelines — practices for taking AI proofs-of-concept to production reliably
+- 🧑‍💻 Improving Developer Experience for Agentic Applications — streamlining tooling and workflows for building agent-based apps
+
 #### 🗓️ September 2026
 - ☁️ Explore Azure AKS — managed Kubernetes on Azure, comparing setup and workflows against EKS/GKE
 - ☸️ Explore AWS EKS — deep dive into cluster provisioning, IAM/RBAC, and networking on AWS's managed K8s
